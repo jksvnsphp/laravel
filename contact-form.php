@@ -17,7 +17,7 @@ $name_not_specified = 'Please type a valid name';
 $email_not_specified = 'Please enter email';
 
 //Message if 'message' field not specified
-$message_not_specified = 'Please type a vaild message';
+$message_not_specified = 'Please type a vaild message...................................';
 
 //Message if e-mail sent successfully
 $email_was_sent = 'Thanks, your message successfully sent';
